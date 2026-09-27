@@ -1,0 +1,7 @@
+numpy
+pdfplumber
+faiss-cpu
+scikit-learn
+reportlab
+openai
+anthropic
